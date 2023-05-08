@@ -12,4 +12,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "image generate.py"]
+CMD ["npm", "generate image.py"]
