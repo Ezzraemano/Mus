@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing import image
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # token API dari BotFather
-TOKEN = 'masukan_token_api_bot_anda_disini'
+TOKEN = '6294245889:AAHQkW5pztXYN0BhifYikcfDrQIMtNx_uOs'
 
 # inisialisasi bot
 bot = telegram.Bot(token=TOKEN)
